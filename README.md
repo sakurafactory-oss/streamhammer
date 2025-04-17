@@ -64,7 +64,7 @@ git clone https://github.com/sakurafactory-oss/streamhammer.git
 cd streamhammer
 go build -o streamhammer cmd/main.go
 ./streamhammer
-
+```
 または Docker 起動（予定）：
 
 docker run -p 8080:8080 sakurafactory/streamhammer
